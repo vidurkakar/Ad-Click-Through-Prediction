@@ -22,6 +22,6 @@ The toy dataset is provided in the file ```train.csv``` . Results using toy data
 * seaborn 
 * matplotlib 
 
-##Output
+## Output
 
 The classifier results are in the ipython notebooks and the generated graphs can be found in the ```Graphs``` folder.
